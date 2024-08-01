@@ -1,0 +1,38 @@
+header {
+    border-bottom: 2px solid grey;
+}
+ .shop__title {
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-right: 25px;
+ }
+
+.footer__container {
+    width: 100%;
+}
+
+.card__title {
+    flex-direction: column;
+    align-self: flex-start;
+}
+
+.card-img-top {
+    height: 50%;
+    object-fit: cover;
+}
+
+.product-image {
+    height: 700px;
+    object-fit: cover;
+}
+
+.nav-link-active {
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.nav {
+    text-align: center;
+}
